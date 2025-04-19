@@ -6,7 +6,7 @@
 - 📚 Sempre aprendendo, ensinando e buscando novos desafios
   
 ## 🎮 Hobbies & Intereses
-- 🎨 Praia 
+- 🌊 Praia 
 - 📚 Ler 
 - 🎬 Séries e Animes  
 - 🎮 Jogos Online
