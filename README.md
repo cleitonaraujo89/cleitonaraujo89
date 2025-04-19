@@ -11,24 +11,20 @@
 - 🎬 Séries e Animes  
 - 🎮 Jogos Online
 
-  ## 🎯 Focado Atualmente em
+## 🎯 Focado Atualmente em
   <div style="display: inline">
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" />
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   </div>
+  
+> ### Como me encontrar
+  <a href="https://www.linkedin.com/in/cleiton-araujo-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href = "mailto:cleitonamc@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23ff0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
 
-<!--
-**cleitonaraujo89/cleitonaraujo89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
