@@ -1,6 +1,6 @@
 ## Olá Mundo! Um Pouco Sobre Mim 👋
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
-- 👨‍🏫 Ex-professor no SENAI e IEGA, onde compartilhei conhecimento com orgulho
+- 👨‍🏫 Professor no SENAI e IEGA, compartilhando conhecimento com orgulho
 - 🚀 Empreendedor apaixonado por tecnologia e inovação
 - 💡 Gosto de transformar ideias em soluções reais
 - 📚 Sempre aprendendo, ensinando e buscando novos desafios
